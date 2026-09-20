@@ -1,5 +1,6 @@
 name: Java CI with Maven somit
 
+
 on:
   push:
     branches: [ "master" ]
